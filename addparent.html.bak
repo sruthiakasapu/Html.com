@@ -1,0 +1,16 @@
+<html>
+<body bgcolor="pink">
+<center>
+<h3>ADD PARENT</h3>
+<h6>admin of the application can add the parent using a form</h6>
+name of the parent:<input type="text" name="name of the parent" value="" maxlength="15" size="20">
+<br><br>
+name of the student:<input type="text" name="name of the student" value="" maxlength="15" size="20">
+<br><br>
+section of the student:<input type="text" name="section of the student" value="" maxlength="1" size="20">
+<br><br>
+Roll no:<input type="text" name="Roll no" value="" maxlength="3" size="20">
+<br><br>
+</center>
+</body>
+</html>

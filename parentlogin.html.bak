@@ -1,0 +1,17 @@
+<html>
+<body bgcolor="paleturquoise">
+<center>
+<h3>parent login</h3>
+Firstname:<input type="text" name="username" value="" maxlength="15" size="20">
+<br><br>
+lastname:<input type="text" name="lastname" value="" maxlength="10" size="20">
+<br><br>
+email:<input type="email" name="email" value="" maxlength="20" size="20">
+<br><br>
+password:<input type="password" name="password" value="" maxlength="6"><br><br>
+<input type="checkbox">I'm not a robot<br><br>
+<button type="signin" onclick="alert('Thankyou!!')" style="height:40px;width:100px">signin</button><br><br>
+<small><a href="ttps://support.google.com ">forget my password</small>
+</center>
+</body>
+</html>

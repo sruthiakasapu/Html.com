@@ -1,0 +1,14 @@
+<html>
+<body bgcolor="orchid4">
+<br>
+<font color="white">
+<a href="home.html" target="admin">HOME</a><br><br>
+<a href="adminlogin.html" target="admin">ADMIN_LOGIN</a><br><br>
+<a href="parentlogin.html" target="admin">PARENT_LOGIN</a><br><br>
+<a href="addparent.html" target="admin">ADD_PARENT</a><br><br>
+<a href="post_the_info.html" target="admin">POST_THE_INFO</a><br><br>
+<a href="view_all_info.html" target="admin">VIEW_ALL_INFO<br><br>
+<a href="log out" target="admin">LOG_OUT<br><br>
+</font>
+</body>
+</html>

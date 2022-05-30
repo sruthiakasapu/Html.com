@@ -1,0 +1,13 @@
+<html>
+<body bgcolor="papayawhip">
+<center><br><br>
+<h3>admin login</h3>
+<br>
+<forms>
+username:<input type="text" name="username" value="" maxlength="20" size="20"><br><br>
+password:<input type="password" name="password" value="" maxlength="6"><br><br>
+<button type="signin" onclick="alert('Thankyou!!')" style="height:40px;width:100px">signin</button><br><br>
+<small><a href="https://support.google.com/accounts/answer/41078?hl=en&co=GENIE.Platform%3DDesktop">forget my password</small>
+</center>
+</body>
+</html>
